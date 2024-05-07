@@ -2,7 +2,7 @@ FROM sjonah/base
 
 MAINTAINER Hanojs
 
-ENV ZOOKEEPER_VERSION 3.4.13
+ENV ZOOKEEPER_VERSION 3.8.4
 
 #Download Zookeeper
 RUN wget -q http://mirror.vorboss.net/apache/zookeeper/zookeeper-${ZOOKEEPER_VERSION}/zookeeper-${ZOOKEEPER_VERSION}.tar.gz && \
