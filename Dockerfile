@@ -1,6 +1,6 @@
-FROM wurstmeister/base
+FROM hanojs/base
 
-MAINTAINER Wurstmeister
+MAINTAINER Hanojs
 
 ENV ZOOKEEPER_VERSION 3.4.13
 
