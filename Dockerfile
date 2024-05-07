@@ -1,4 +1,4 @@
-FROM hanojs/base
+FROM sjonah/base
 
 MAINTAINER Hanojs
 
